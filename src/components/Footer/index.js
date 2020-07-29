@@ -10,10 +10,12 @@ import Tumblr from "../../assets/images/icons/tumblr.svg"
 
 const MainFooter = styled.footer`
   width: 100%;
+  color: ${props => props.theme.colorWhite};
+  background: ${props => props.theme.colorGreyDarkest};
   padding: ${rem(10)} ${rem(30)};
   margin-left: auto;
   margin-right: auto;
-  border-top: 1px solid ${props => props.theme.colorBorderLight};
+  border-top: 1px solid ${props => props.theme.colorGrey};
   display: flex;
 
   @media ${props => props.theme.mediumUp} {

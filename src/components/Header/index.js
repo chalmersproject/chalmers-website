@@ -3,8 +3,11 @@ import Link from 'gatsby-link'
 import styled, { css } from 'styled-components'
 import { rem } from 'polished'
 import Headroom from 'react-headroom'
+import theme from '../../themes/main.js'
 
 const MainHeader = styled.header`
+  background: ${props => props.theme.colorGreyDarkest};
+  color: ${props => props.theme.colorWhite};
   width: 100%;
   padding: ${rem(30)};
   margin-left: auto;
@@ -26,8 +29,9 @@ const MainHeader = styled.header`
   ${props => props.size === 'small' && css`
     padding: ${rem(20)};
     margin-bottom: ${rem(50)};
-    background: ${props => props.theme.colorWhite};
-    border-bottom: 1px solid ${props => props.theme.colorBorderLighter};
+    background: ${props => props.theme.colorGreyDarkest};
+    color: ${props => props.theme.colorWhite};
+    border-bottom: 1px solid ${props => props.theme.colorGreyDarker};
     position: relative;
     transition: background 0.2s cubic-bezier(0.455, 0.030, 0.515, 0.955);
     z-index: 9;
@@ -82,8 +86,8 @@ const MainHeader = styled.header`
     }
 
     &:hover {
-      background: ${props => props.theme.colorYellow};
-      border-color: ${props => props.theme.colorYellow};
+      background: ${props => props.theme.colorGreyDarker};
+      border-color: ${props => props.theme.colorGreyDarker};
 
       strong {
         transform: translateX(-190%) translateY(-50%);

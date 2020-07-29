@@ -7,7 +7,9 @@ const Projects = styled.section`
   grid-template-columns: 1fr;
   grid-auto-rows: calc(100vw + 80px);
   transition: all 0.2s ease-out;
-
+  color: ${props => props.theme.colorWhite};
+  background: ${props => props.theme.colorGreyDarkest};
+  
   &.loading {
     opacity: 0;
     transform: translateY(-${rem(20)});

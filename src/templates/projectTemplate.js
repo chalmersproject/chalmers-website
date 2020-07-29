@@ -7,6 +7,8 @@ import { graphql } from 'gatsby'
 import ProjectThumbnail from "../components/Project/projectThumbnail"
 
 const Post = styled.main`
+  background: ${props => props.theme.colorGreyDarkest};
+  color: ${props => props.theme.colorWhite};
   width: 100%;
   transition: all 0.2s ease-out;
   opacity: 0;
@@ -154,7 +156,7 @@ const ProjectNavigation = styled.nav`
   display: grid;
   grid-template-columns: 1fr;
   grid-auto-rows: calc(100vw + 80px);
-
+  
   @media ${props => props.theme.mediumUp} {
     grid-template-columns: 1fr 1fr;
     grid-auto-rows: calc(50vw + 100px);
@@ -170,7 +172,7 @@ const ProjectNavigation = styled.nav`
 const ProjectHeader = styled.header`
   width: 80%;
   margin: 0 auto ${rem(30)} auto;
-
+  
   @media ${props => props.theme.mediumUp} {
     max-width: ${rem(700)};
   }
@@ -190,7 +192,7 @@ const ProjectTitle = styled.h1`
   line-height: 1;
   font-weight: 700;
   margin: 0;
-
+  
   @media ${props => props.theme.smallUp} {
     font-size: ${rem(36)};
   }
