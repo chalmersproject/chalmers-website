@@ -9,10 +9,6 @@ const Thumbnail = styled.article`
   a {
     width: 100%;
   }
-
-  &:hover div {
-    background: ${props => props.theme.colorBorderLighter};
-  }
 `
 
 const ProjectImage = styled.div`
@@ -45,7 +41,7 @@ const ProjectMeta = styled.div`
     padding: ${rem(36)} ${rem(30)};
     padding-left: max(${rem(30)}, env(safe-area-inset-left));
     padding-right: max(${rem(30)}, env(safe-area-inset-right));
-    border-right: 1px solid ${props => props.theme.colorBorderLight};
+    border-right: 1px solid ${props => props.theme.colorGreyDarker};
   }
 `
 
@@ -64,6 +60,7 @@ const ProjectTitle = styled.h1`
   @media ${props => props.theme.mediumUp} {
     font-size: ${rem(32)};
   }
+
 `
 
 const ProjectType = styled.h2`
@@ -83,6 +80,7 @@ const ProjectType = styled.h2`
   @media ${props => props.theme.mediumUp} {
     line-height: ${rem(32)};
   }
+
 `
 
 class ProjectThumbnail extends React.Component {
