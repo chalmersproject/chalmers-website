@@ -51,7 +51,7 @@ class TemplateWrapper extends React.Component {
             title="chalmerscards.com"
             meta={[
               { name: 'name', content: 'chalmerscards.com' },
-              { name: 'description', content: 'Chalmers Cards is a guerilla project fighting homelessness in toronto ontario' },
+              { name: 'description', content: 'Chalmers Cards is a guerilla project fighting homelessness in Toronto Ontario' },
               { name: 'keywords', content: 'design, Industrial Design, Web, development, frontend, electronics, arduino, homelessness, Chalmers, ChalmersCards, Chalmers Cards' },
               { name: 'image', content: "/images/og.png" }
             ]}
@@ -69,13 +69,13 @@ class TemplateWrapper extends React.Component {
             <meta property="og:type" content="website" />
             <meta property="og:site_name" content="chalmerscards.com" />
             <meta property="og:title" content="chalmerscards.com" />
-            <meta property="og:description" content="chalmers cards is a guerilla project fighting homelessness in toronto ontario" />
+            <meta property="og:description" content="chalmers cards is a guerilla project fighting homelessness in Toronto Ontario" />
             <meta property="og:image" content="https://www.chalmerscards.com/images/og.png" />
             <meta property="og:url" content={"https://www.chalmerscards.com" + this.props.location.pathname} />
 
             <meta name="twitter:card" content="summary_large_image" />
             <meta name="twitter:title" content="chalmerscards.com" />
-            <meta name="twitter:description" content="chalmers cards is a guerilla project fighting homelessness in toronto ontario" />
+            <meta name="twitter:description" content="chalmers cards is a guerilla project fighting homelessness in Toronto Ontario" />
             <meta name="twitter:image:src" content="https://www.chalmerscards.com/images/og.png" />
             <meta name="twitter:site" content="@emmnunes" />
             <meta name="twitter:creator" content="@emmnunes" />

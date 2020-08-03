@@ -185,7 +185,7 @@ class Header extends React.Component {
           <MainHeader size="small">
             <Link to="/" title="Go to homepage">
               <SiteTitle size="small">
-                <strong>Chalmers Cards</strong><small> is a guerilla project fighting homelessness in toronto ontario</small>
+                <strong>Chalmers Cards</strong><small> fighting to end homeless in Toronto</small>
               </SiteTitle>
             </Link>
           </MainHeader>
@@ -194,7 +194,7 @@ class Header extends React.Component {
     } else {
       return (
         <MainHeader>
-          <SiteTitle><strong>chalmerscards.com</strong> is a guerilla project fighting homelessness in toronto, ontario.</SiteTitle>
+          <SiteTitle><strong>chalmerscards.com</strong> is a guerilla project fighting homelessness in Toronto, Ontario.</SiteTitle>
           <SiteByline> <br />
 
           </SiteByline>

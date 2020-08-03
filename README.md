@@ -1,7 +1,7 @@
 # chalmerscards.com
 > This is a fork of [Eduardo Nunes](https://github.com/emmnunes)'s portfolio site, [undersight.co](undersight.co). He is a #%^@ing saint for open sourcing it!!!!
 
-Chalmers Cards is a guerilla project fighting homelessness in toronto ontario
+Chalmers Cards is a guerilla project fighting homelessness in Toronto Ontario
 
 ## Running locally
 

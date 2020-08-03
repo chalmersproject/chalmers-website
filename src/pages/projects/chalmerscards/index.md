@@ -34,7 +34,7 @@ In this case, I identified the problem as being that **Toronto's social infrastr
 
 </article>
 
-![Diagram of Toronto social assistance](images/torontoInfrastructure.png)
+![Diagram of Toronto social assistance](images/TorontoInfrastructure.png)
 
 
 <article role="article">
@@ -59,11 +59,11 @@ Ironically, my difficulty in researching Toronto's social services is what led t
 
 My first solution direction was *some kind* of an information delivery network; Which was broken down into four project directions.
 
-At the time it seemed the obvious choice was to find a way to deliver internet access, and then a web app. An *internet solution* covered three of my four project directions. Luckily, only a few months previously the City of Toronto (under the guidance of the fabulous [CG Chen](https://www.behance.net/cgchen)) had built a web app mostlty to the spec of my project: [Toronto.ca/homelesshelp](toronto.ca/homelesshelp)!
+At the time it seemed the obvious choice was to find a way to deliver internet access, and then a web app. An *internet solution* covered three of my four project directions. Luckily, only a few months previously the City of Toronto (under the guidance of the fabulous [CG Chen](https://www.behance.net/cgchen)) had built a web app mostlty to the spec of my project: [Toronto.ca/homelesshelp](Toronto.ca/homelesshelp)!
 
 </article>
 
-![toronto.ca/homelesshelp](images/webapp.png)
+![Toronto.ca/homelesshelp](images/webapp.png)
 <article role="article">
 
 I took to the streets to conduct some user testing on Toronto's webapp.

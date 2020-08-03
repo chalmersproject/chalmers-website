@@ -1,6 +1,6 @@
 {
   "name": "chalmerscards.com",
-  "description": "chalmers cards is a guerilla project fighting homelessness in toronto ontario",
+  "description": "chalmers cards is a guerilla project fighting homelessness in Toronto Ontario",
   "version": "1.0.0",
   "author": "Mister Chalmers <info@chalmerscards.com>",
   "dependencies": {
