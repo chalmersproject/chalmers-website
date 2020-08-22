@@ -15,8 +15,6 @@ order: 1
 
 Chalmers Cards are wooden information booklets that are designed to be given out at Toronto's emergency shelters and to folks sleeping on the streets of Toronto.
 
-Chalmers Cards is the first project from [Chalmers](www.chalmerscards.com), which is an social venture to improve the state of homlessness in Toronto.
-
 </article>
 
 ![Chalmers Cards batch](images/tastyBatch.jpg)
@@ -24,36 +22,23 @@ Chalmers Cards is the first project from [Chalmers](www.chalmerscards.com), whic
 
 <article role="article">
 
-> Homelessness should not exist. It's a bug in Toronto's DNA. People should be free to live how they like, but no one should ever feel they have no choice but to sleep on the street.
-
-My goal going into thesis year at OCAD was to put a dent in Toronto's population experiencing homelessness. I started with my favorite design philosophy:
-
->"Fall in love with the problem, not your solution. Solutions are just your experiments."
-
-In this case, I identified the problem as being that **Toronto's social infrastructure was failing to scale with the increasing homeless population**. I began by trying to fall in love with the structures of Toronto's social infrastructure
+Toronto's social support and the documentation for Toronto's support services are complicated. Even information *intended* to be public facing is difficult to find in the labryinth-websites of public services like Ontario Works. 
 
 </article>
 
-![Diagram of Toronto social assistance](images/TorontoInfrastructure.png)
-
+![Diagram of Toronto social assistance](images/torontoInfrastructure.png)
+![ontario works complicated](images/ow_complicated_website.png)
 
 <article role="article">
 
-Toronto's social support structures are complicated. There wasn't much public documentation available about the inner workings of Toronto's two major support administrations, SSHA (Shelter, Support, and Housing Administration) and TESS/OW (Toronto Employment Services / Ontario Works).
+Information about social support infrastructure is sparse, so it gets passed around word-of-mouth. Word of mouth can be innacurate and slow, which creates bottlenecks in Toronto's social support infrastructure.
 
-Even information *intended* to be public facing was difficult to find and spread wildly across the internet. Things like what resources are available, when are they available, who can access them.
+During our research and testing we spoke with many folks experiencing homelessness who describe themselves as computer illiterate. Many more did not have a personal computer
 
-Most of what I was able to learn was from the front line staff who administered these services, and from people who had used the services first hand.
-
-Ironically, my difficulty in researching Toronto's social services is what led to my first key insight about it.
-
-> Information about social support infrastructure is sparse, so it gets passed around word-of-mouth. Word of mouth can be innacurate and slow, which creates bottlenecks in Toronto's social support infrastructure.
-
+> Getting on the internet is a real chore when you don't own a computer.
 </article>
 
 ![Problem statement: poor information sources](images/poorInformation.png)
-![Potential methods for delivering information statement](images/improvedInformation.png)
-![Potential project directions](images/projectDirections.png)
 
 <article role="article">
 
@@ -70,7 +55,7 @@ I took to the streets to conduct some user testing on Toronto's webapp.
 
 Most of the folks I talked to didn't own a computer! Theft is unfortunately very common while sleeping in shelters and rough on the street. So valuable items like smartphones can be very impermanent. Some of the people I talked to went as far as to describe themselves as "tech-illiterate".
 
-> Getting on the internet is a real chore when you don't own a computer.
+
 
 </article>
 
