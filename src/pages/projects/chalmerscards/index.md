@@ -44,8 +44,6 @@ Even information *intended* to be public facing is often difficult to find in th
 
 During our research and testing we spoke with many folks experiencing homelessness who described themselves as computer illiterate. Many who said they were familiar with computers had their personal computer stolen recently. A lot of social services documentation is available on the internet. But getting on the internet is a real chore when you don't own a computer.
 
-Because information about social services is sparse, it often gets passed around word-of-mouth. Word of mouth can be innacurate and slow, which creates bottlenecks in Toronto's social support infrastructure.
-
 </article>
 
 ![Problem statement: poor information sources](images/poorInformation.png)
