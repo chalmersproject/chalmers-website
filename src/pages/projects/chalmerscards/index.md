@@ -50,7 +50,18 @@ During our research and testing we spoke with many folks experiencing homelessne
 
 <article role="article">
 
-Chalmers Cards are intended to be a to-the-point social services reference guide. Most of it's resources are toll free 24-hour phone numbers. The resources are organized into reasonable categories (health/financial-aid/shelter/legal-aid/general-reference). A workflow for getting financial aid is broken out into a three step process, each with a clear action item. All of this is neatly packaged in a 70mm by 70mm laser-cut wooden booklet that snaps onto your backpack.
+Chalmers Cards are intended to be a to-the-point social services reference guide. Most of it's resources are toll free 24-hour phone numbers. The resources are organized into reasonable categories: 
+
+    - health
+    - financial-aid
+    - shelter
+    - legal-aid 
+    - general-reference
+
+</article>
+<article role="article">
+
+A workflow for getting financial aid is broken out into a three step process, each with a clear action item. All of this is neatly packaged in a 70mm by 70mm laser-cut wooden booklet that snaps onto your backpack.
 
 </article>
 
