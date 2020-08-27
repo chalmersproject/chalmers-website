@@ -6,6 +6,7 @@
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.0.72",
+    "gatsby-cli": "^2.12.89",
     "gatsby-image": "^2.0.25",
     "gatsby-link": "^2.0.7",
     "gatsby-plugin-layout": "^1.0.10",
@@ -13,6 +14,7 @@
     "gatsby-plugin-sharp": "^2.0.15",
     "gatsby-plugin-styled-components": "^3.0.4",
     "gatsby-remark-images": "^3.0.1",
+    "gatsby-remark-interactive-gifs": "^1.0.3",
     "gatsby-source-filesystem": "^2.0.12",
     "gatsby-transformer-remark": "^2.1.17",
     "gatsby-transformer-sharp": "^2.1.9",
@@ -40,5 +42,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/misterchalmers/chalmers-website"
+  },
+  "devDependencies": {
+    "gatsby-remark-static-images": "^1.2.1"
   }
 }

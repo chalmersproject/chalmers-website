@@ -13,88 +13,61 @@ order: 2
 
 <article role="article">
 
-The Chalmers Signal is an internet enabled dial designed for reporting shelter occupancy.
-
-Below is an image of an experiment I ran at the [St. Felix Center](http://stfelixcentre.ca/). It's an internet button that sends me an email when the staff run out of [chalmers cards](https://zachdonsky.xyz/ChalmersCards).
-
-It works well too! The shelter staff tell me they get a kick out of pressing a button to have me show up a few hours later.
+The Chalmers Signal hopes to make shelter occupancy data more accessible and faster to communicate among shelters in Toronto. It is an internet connected device that publishes real-time occupancy data amongst shelters around Toronto!
 
 </article>
 
-![Chalmers Signal](images/signalAtStFelix.jpg)
+![Diagram of Chalmers Signal broadcasting from one shelter to a group of shelters](images/chalmers_signal.png)
 
 <article role="article">
 
-> In the time I've spent studying homelessness in Toronto I've come to learn how important time is to shelter staff.
-
-Sometimes when I hang around the shelter reception desk I'll watch the receptionist answer to three clients in person, take a phone call, and shout to another staff member back in the office, all in the space of five minutes. If the receptionist has to update a referral service on their capacity, it often means calling the referral service directly and waiting on hold.
+The data from Chalmers Signals is consolidated into a live map at map.chalmerscards.com that shows at a glance which shelters have space, and how much, and which are full up.
 
 </article>
 
-![basecount problem research](images/basecountProblemStatement.png)
+![Close up of chalmers map on computer monitor at homeless shelter reception desk]()
 
 <article role="article">
 
-The diagram above was made as a part of the [Basecount](/basecount) project. With Basecount, we tried to consolidate shelter staff's different lines of communication for updating referral services on their capacity (phone calls to SHARC/Central Intake, SMIS, phone calls to other shelters), into one data hub.
+The intention of the Chalmers Signal is to make shelter referrals as fast as possible. With today's shelter technology, referrals are a slow and largely manual process requiring lots of phone calls and a complicated computer program called the Shelter Management Information System (SMIS).
 
 </article>
 
-![basecount target solution](images/basecounttargetsolution.png)
+![Picture of SMIS interface]()
 
 <article role="article">
 
-We built a really neat web-app. The main interface allowed shelter staff to publish the occupancy of their shelter, and they could also send invites to other staff members to join the app under their shelter's name.
+Every shelter performs headcount of clients multiple times per day (at some shelters multiple times an hour). However shelter occupancy numbers are often not published in SMIS more than once per day, usually late at night, because SMIS is slow to use.
+
+> The barrier to fast and accurate shelter referrals lies **not** with the shelter staff but with the equipment that they are stuck with.
 
 </article>
-
-![basecount wireframe](images/basecount.png)
-
-<article role="article">
-
-The difficulty was that it felt like we had given shelter staff *another* task. Using the web-app required the user to bookmark or remember the URL, to sign up for authentication, and to learn to navigate the UI.
-
-> Our project would help produce better data around shelter occupancy, but it really didn't make the shelter staff's lives easier.
-
-</article>
-
-![rendering 1](images/rendering1.png)
-
-<article role="article">
-
-While experimenting with the internet switch I left at St. Felix, I discovered much easier it was to add to someone's workflow when the thing they have to do is a simple physical interaction.
-
-> What if broadcasting your shelter's live occupancy was as easy as turning a dial?
-
-So I started prototyping what a *shelter occupancy broadcasting device* might look like.
-
-It might live behind a reception desk of a main office, like the one pictured below (modeled after the desk at St. Felix):
-
-</article>
-
-![Chalmers Signal illustration](images/chalmersSignalIllustration.png)
-
-<article role="article">
-
-In the above illustraion, a rotating selector switch rests on a desk, connected to power. A more visible signal-light is hung from the wall. The wall mounted light is so that everyone in the office has line of sight to whatever status they're broadcasting.
-
-</article>
-
-![chalmers signal and exploded view](images/ChalmersSignal.png)
-
-<article role="article">
-
-I've been designing the device to be inexpensive, and to be assembled in a makerspace with a lasercutter and an electronics bench (e.g. [HackLab.TO](Hacklab.to) -- I am a member). I expect the material cost of each switch to be ~$20. The design above has a graphic display for showing what occupancy it's currently broadcasting, and an rgb LED which fades to red as the dial is moved towards 100% occupancy.
-
-</article>
-
-![shelter watch](images/shelterwatch.png)
 
 
 <article role="article">
 
-In addition to broadcasting occupancy data, it's important to display the data in a way that's meaningful to shelter staff and clients.
+Updating the Chalmers Signal only requires the turn of a knob! 
 
-One of my friends from Basecount, [Flipip Stepien](https://filipstepien.com/), developed a map interface for surfacing shelter occupancy data: [Shelter Watch](https://shelter.filipstepien.com/) (pictured above).
-
-With the help of *Shelter Watch*, data from Chalmers Signals can be pushed to [firebase](firebase.google.com), and surface on the *Shelter Watch* interface. 
 </article>
+
+![gif of the chalmers signal knob being turned up and down]()
+
+<article role="article">
+
+Unlike SMIS, updating your shelter's occupancy is straighforward and only takes seconds. Shelter staff simply adjust the occupancy by rotating the knob each time they count their number of clients. 
+
+
+Just like that, you’ve let the other shelters know how much space your site has left. The Chalmers Signal's screen will change to the new occupancy number, its case will change color, its computer will immediately update an online public database with the new occupancy number.
+
+</article>
+
+![gif of the chalmers map nodes changing color; mouse clicks on node to reveal shelter contact information and ocucpancy number]()
+
+<article role="article">
+
+The Chalmers Map shows the occupancy numbers of all the shelters in Toronto with Chalmers Signals. The Map's interface is designed so anyone can see, in real time, which shelters have space with a brief glance
+
+> By quickly browsing the Chalmers Map, a shelter staff member will only need to make a single call to reach a shelter that is likely to have space.
+</article>
+
+![gif of chalmers face smiling]()

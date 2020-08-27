@@ -5,6 +5,7 @@ import { rem } from "polished"
 import { graphql } from 'gatsby'
 
 import ProjectThumbnail from "../components/Project/projectThumbnail"
+import "../components/gifs.css"
 
 const Post = styled.main`
   background: ${props => props.theme.colorGreyDarkest};
@@ -297,7 +298,7 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-  query BlogPostByPath($path: String!) {
+  query getGifsAndBlogPostByPath($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
@@ -305,6 +306,19 @@ export const pageQuery = graphql`
         title
         type
         order
+      }
+    }
+    allInteractiveGif {
+      edges {
+        node {
+          height
+          absolutePath
+          base64
+          relativePath
+          sourcePath
+          stillRelativePath
+          width
+        }
       }
     }
   }
