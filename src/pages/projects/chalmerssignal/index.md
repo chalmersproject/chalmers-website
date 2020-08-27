@@ -1,7 +1,7 @@
 ---
 # Metadata
 title: "Chalmers Signal"
-type: "Electronics + Design + Web"
+type: ""
 
 # Thumbnails
 thumbnail: "./thumbnail.svg"

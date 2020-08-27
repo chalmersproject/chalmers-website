@@ -1,7 +1,7 @@
 ---
 # Metadata
 title: "Chalmers Cards"
-type: "Research + Design + Manufacturing"
+type: ""
 
 # Thumbnails
 thumbnail: "./thumbnail.svg"
