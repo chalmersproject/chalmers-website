@@ -140,7 +140,7 @@ class ProjectThumbnail extends React.Component {
 
     this.interval = setInterval(() => {
       this._cycleImage()
-    }, 600)
+    }, 1200)
   }
 
   _mouseLeave() {
