@@ -17,7 +17,7 @@ The Chalmers Signal hopes to make shelter occupancy data more accessible and fas
 
 </article>
 
-![Diagram of Chalmers Signal broadcasting from one shelter to a group of shelters](images/chalmers_signal.png)
+`gif:chalmers-signal-getting-turned.gif`
 
 <article role="article">
 
@@ -25,7 +25,7 @@ The data from Chalmers Signals is consolidated into a live map at map.chalmersca
 
 </article>
 
-![Close up of chalmers map on computer monitor at homeless shelter reception desk]()
+`gif:chalmers-map-being-used.gif`
 
 <article role="article">
 
@@ -33,7 +33,7 @@ The intention of the Chalmers Signal is to make shelter referrals as fast as pos
 
 </article>
 
-![Picture of SMIS interface]()
+![Basecount problem statement](images/basecountProblemStatement.png)
 
 <article role="article">
 
@@ -50,7 +50,7 @@ Updating the Chalmers Signal only requires the turn of a knob!
 
 </article>
 
-![gif of the chalmers signal knob being turned up and down]()
+![gif of the chalmers signal knob being turned up and down](images/handsome_signal.png)
 
 <article role="article">
 
@@ -70,4 +70,4 @@ The Chalmers Map shows the occupancy numbers of all the shelters in Toronto with
 > By quickly browsing the Chalmers Map, a shelter staff member will only need to make a single call to reach a shelter that is likely to have space.
 </article>
 
-![gif of chalmers face smiling]()
+![Chalmers Signal Neon](images/chalmers_signal.png)

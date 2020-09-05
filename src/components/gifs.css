@@ -34,6 +34,7 @@
 
 /* Play button */
 .interactive-gif .still-container .play {
+  background: transparent;
   cursor: pointer;
   filter: grayscale(100%);
   width: 20%;
