@@ -308,18 +308,5 @@ export const pageQuery = graphql`
         order
       }
     }
-    allInteractiveGif {
-      edges {
-        node {
-          height
-          absolutePath
-          base64
-          relativePath
-          sourcePath
-          stillRelativePath
-          width
-        }
-      }
-    }
   }
 `;
