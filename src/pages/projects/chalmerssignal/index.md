@@ -17,7 +17,6 @@ The Chalmers Signal hopes to make shelter occupancy data more accessible and fas
 
 </article>
 
-`gif:chalmers-signal-getting-turned.gif`
 
 <article role="article">
 
@@ -25,7 +24,6 @@ The data from Chalmers Signals is consolidated into a live map at map.chalmersca
 
 </article>
 
-`gif:chalmers-map-being-used.gif`
 
 <article role="article">
 
@@ -61,7 +59,6 @@ Just like that, you’ve let the other shelters know how much space your site ha
 
 </article>
 
-`gif:signal-changes-map.gif`
 
 <article role="article">
 
