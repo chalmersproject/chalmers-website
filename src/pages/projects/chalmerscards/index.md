@@ -21,7 +21,6 @@ Chalmers Cards are laser-cut onto wood so the information doesn't get crumpled o
 
 ![Chalmers Cards batch](images/tastyBatch.jpg)
 ![Chalmers card snapped to jeans](images/snappedToJeans.jpg)
-- add thing about this being zach, an actual user of chalmers cards
 
 <article role="article">
 
