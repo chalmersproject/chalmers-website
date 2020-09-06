@@ -17,6 +17,8 @@ Chalmers Cards are wooden information booklets that are designed to be given out
 
 Chalmers Cards are laser-cut onto wood so the information doesn't get crumpled or damaged. Plus the cars nice and people think they're cool so the cards don't get lost!
 
+More than 1000 chalmers cards have been given distributed to folks in need!
+
 </article>
 
 ![Chalmers Cards batch](images/tastyBatch.jpg)
