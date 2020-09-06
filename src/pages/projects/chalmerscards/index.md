@@ -8,7 +8,7 @@ thumbnail: "./thumbnail.svg"
 
 # Options
 path: "/chalmerscards/"
-order: 1
+order: 2
 ---
 
 <article role="article">

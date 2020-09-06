@@ -8,7 +8,7 @@ thumbnail: "./thumbnail.svg"
 
 # Options
 path: "/chalmerssignal/"
-order: 2
+order: 1
 ---
 
 <article role="article">
@@ -61,7 +61,7 @@ Just like that, you’ve let the other shelters know how much space your site ha
 
 </article>
 
-![gif of the chalmers map nodes changing color; mouse clicks on node to reveal shelter contact information and ocucpancy number]()
+`gif:signal-changes-map.gif`
 
 <article role="article">
 
