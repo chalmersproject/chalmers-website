@@ -79,4 +79,4 @@ Like all other Chalmers' projects, Chalmers Cards are open source and freely ava
 
 </article>
 
-
+![cards getting lasered](https://media.giphy.com/media/KBOssYl3FtlPt3nayX/giphy.gif)

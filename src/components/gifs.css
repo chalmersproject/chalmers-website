@@ -1,5 +1,9 @@
 .interactive-gif {}
 
+img{
+  /* position: absolute; */
+   width: 100%;
+}
 /* Responsive flicker-less display */
 .interactive-gif .embedded {
   position: relative;
