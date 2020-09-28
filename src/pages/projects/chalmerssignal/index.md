@@ -69,7 +69,7 @@ The Chalmers Map shows the occupancy numbers of all the shelters in Toronto with
 
 > By quickly browsing the Chalmers Map, a shelter staff member will only need to make a single call to reach a shelter that is likely to have space.
 
-Interested in knowing more? Or do you work at a shelter and are interested in getting a chalmers signal for your location? Please reach out to us at <a href="mailto:info@chalmerscards.com">info@chalmerscards.com </a>!
+Interested in knowing more? Or do you work at a shelter and are interested in getting a chalmers signal for your location? Please reach out to us at <a href="mailto:info@chalmers.cards">info@chalmers.cards </a>!
 
 
 </article>

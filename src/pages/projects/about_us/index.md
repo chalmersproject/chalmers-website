@@ -16,5 +16,5 @@ Chalmers is a guerilla group of volunteers. We meet up in person at [civic tech 
 
 We also post on twitter [@misterchalmers](twitter.com/misterchalmers). 
 
-We are all friendly volunteers. Feel free to reachout at <a href="mailto:info@chalmerscards.com">info@chalmerscards.com </a>.
+We are all friendly volunteers. Feel free to reachout at <a href="mailto:info@chalmers.cards">info@chalmers.cards </a>.
 </article>

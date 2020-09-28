@@ -75,7 +75,7 @@ A workflow for getting financial aid is broken out into a three step process, ea
 
 Chalmers Cards materials are inexpensive and the cards are designed to be manufactured at makerspaces around Toronto.
 
-Like all other Chalmers' projects, Chalmers Cards are open source and freely available from our github. [Check them out here](https://www.github.com/misterchalmers/chalmers-cards). If you have access to a lasercutter consider cutting some out and distributing them yourself! Or consider donating to have some cards produced by contacting us at <a href="mailto:info@chalmerscards.com">info@chalmerscards.com </a>
+Like all other Chalmers' projects, Chalmers Cards are open source and freely available from our github. [Check them out here](https://www.github.com/misterchalmers/chalmers-cards). If you have access to a lasercutter consider cutting some out and distributing them yourself! Or consider donating to have some cards produced by contacting us at <a href="mailto:info@chalmer.cards">info@chalmers.cards </a>
 
 </article>
 
