@@ -12,6 +12,10 @@ order: 1
 ---
 
 <article role="article">
+<iframe src="https://www.youtube.com/embed/uhmIXnoFnhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</article>
+
+<article role="article">
 
 The Chalmers Signal hopes to make shelter occupancy data more accessible and faster to communicate among shelters in Toronto. It is an internet connected device that publishes real-time occupancy data amongst shelters around Toronto!
 
@@ -46,7 +50,7 @@ Every shelter performs headcount of clients multiple times per day (at some shel
 
 <article role="article">
 
-Updating the Chalmers Signal only requires the turn of a knob! 
+Updating the Chalmers Signal only requires the turn of a knob!
 
 </article>
 
@@ -54,7 +58,7 @@ Updating the Chalmers Signal only requires the turn of a knob!
 
 <article role="article">
 
-Unlike SMIS, updating your shelter's occupancy is straighforward and only takes seconds. Shelter staff simply adjust the occupancy by rotating the knob each time they count their number of clients. 
+Unlike SMIS, updating your shelter's occupancy is straighforward and only takes seconds. Shelter staff simply adjust the occupancy by rotating the knob each time they count their number of clients.
 
 
 Just like that, you’ve let the other shelters know how much space your site has left. The Chalmers Signal's screen will change to the new occupancy number, its case will change color, its computer will immediately update an online public database with the new occupancy number.
