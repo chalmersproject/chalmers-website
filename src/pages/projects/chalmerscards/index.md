@@ -1,13 +1,13 @@
 ---
 # Metadata
-title: "Chalmers Cards"
-type: ""
+title: 'Chalmers Cards'
+type: ''
 
 # Thumbnails
-thumbnail: "./thumbnail.svg"
+thumbnail: './thumbnail.svg'
 
 # Options
-path: "/chalmerscards/"
+path: '/chalmerscards/'
 order: 2
 ---
 
@@ -21,12 +21,21 @@ More than 1000 chalmers cards have been given distributed to folks in need!
 
 </article>
 
+<article role="article">
+
 ![Chalmers Cards batch](images/tastyBatch.jpg)
-![Chalmers card snapped to jeans](images/snappedToJeans.jpg)
+
+</article>
 
 <article role="article">
 
-Toronto's social services infrastructure and documentation on social services are complicated. 
+![Chalmers card snapped to jeans](images/snappedToJeans.jpg)
+
+</article>
+
+<article role="article">
+
+Toronto's social services infrastructure and documentation on social services are complicated.
 
 </article>
 
@@ -34,42 +43,71 @@ Toronto's social services infrastructure and documentation on social services ar
 
 <article role="article">
 
-Even information *intended* to be public facing is often difficult to find in the labryinth-like websites of social services such as Ontario Works. 
+Even information _intended_ to be public facing is often difficult to find in the labryinth-like websites of social services such as Ontario Works.
 
 </article>
 
+<article role="article">
+
 ![ontario works complicated](images/ow_complicated_website.png)
+
+</article>
 
 <article role="article">
 
 During our research and testing, we spoke with many folks experiencing homelessness who described themselves as computer illiterate. Those who were familiar with computers said that they had their computer stolen recently. Others said they didn't have access to a computer every day. A lot of social services documentation is available on the internet. But getting on the internet is a real chore when you don't own a computer.
 
 </article>
+<article role="article">
 
 ![Problem statement: poor information sources](images/poorInformation.png)
 
+</article>
 <article role="article">
 
-Chalmers Cards are intended to be a to-the-point social services reference guide. Most of it's resources are toll free 24-hour phone numbers. The resources are organized into reasonable categories: 
+Chalmers Cards are intended to be a to-the-point social services reference guide. Most of it's resources are toll free 24-hour phone numbers. The resources are organized into reasonable categories:
 
     - health
     - financial-aid
     - shelter
-    - legal-aid 
+    - legal-aid
     - general-reference
 
 </article>
+
 <article role="article">
 
 A workflow for getting financial aid is broken out into a three step process, each with a clear action item. All of this is neatly packaged in a 70mm by 70mm laser-cut wooden booklet that snaps on with a clip.
 
 </article>
 
+<article role="article">
+
 ![snapped on](images/snapped_on.jpg)
+
+<article role="article">
+
 ![front](images/front.jpg)
+
+</article>
+
+<article role="article">
+
 ![inside 1](images/inside_1.jpg)
+
+</article>
+
+<article role="article">
+
 ![inside 2](images/inside_2.jpg)
+
+</article>
+
+<article role="article">
+
 ![back](images/back.jpg)
+
+</article>
 
 <article role="article">
 
@@ -79,4 +117,8 @@ Like all other Chalmers' projects, Chalmers Cards are open source and freely ava
 
 </article>
 
+<article role="article">
+
 ![cards getting lasered](https://media.giphy.com/media/KBOssYl3FtlPt3nayX/giphy.gif)
+
+</article>

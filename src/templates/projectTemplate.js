@@ -38,9 +38,9 @@ const ProjectContent = styled.section`
 
     iframe {
       display: block;
-      margin-left: auto;
-      margin-right: auto;
-      margin-bottom: ${rem(48)};
+      width: 100%;
+      height: auto;
+      margin: auto;
     }
 
     p {
