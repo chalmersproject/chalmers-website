@@ -67,11 +67,7 @@ During our research and testing, we spoke with many folks experiencing homelessn
 
 Chalmers Cards are intended to be a to-the-point social services reference guide. Most of it's resources are toll free 24-hour phone numbers. The resources are organized into reasonable categories:
 
-    - health
-    - financial-aid
-    - shelter
-    - legal-aid
-    - general-reference
+Health, financial-aid, shelter, legal-aid, general-reference.
 
 </article>
 
